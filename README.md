@@ -1,4 +1,4 @@
-# Hi, I'm eXCod3r!
+# Hi, I'm eXcod3r!
 🧑‍💻 I'm beginning programmer
 
 ## About me:
